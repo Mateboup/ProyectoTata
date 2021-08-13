@@ -5,9 +5,11 @@ Característica: Validar que un usuario se pueda Loguear en el sitio web
   deseo poder Loguarme en la en el sitio web
   para poder ingresar al sitio web.
 
+  Antecedentes:
+    Dado que "Mateo" esta en el sitio web en la pestaña
+
   @InicarSesionCorrectamente
   Esquema del escenario: Loguear un usuario a la aplicacion
-    Dado que estoy en el sitio web en la pestaña
     Cuando realice el Logueo en el sitio web
       |  Nombre    |  <Nombre>      |
       |  Contrasena|  <Contrasena>  |
@@ -19,7 +21,6 @@ Característica: Validar que un usuario se pueda Loguear en el sitio web
 
   @IniciarSesionIncorrectamente
   Esquema del escenario: Loguear un usuario a la aplicacion
-    Dado que estoy en el sitio web en la pestaña
     Cuando realice el Logueo en el sitio web
       |  Nombre    |  <Nombre>      |
       |  Contrasena|  <Contrasena>  |

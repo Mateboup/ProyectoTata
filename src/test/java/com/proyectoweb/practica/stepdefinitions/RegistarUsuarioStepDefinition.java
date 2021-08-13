@@ -3,12 +3,9 @@ package com.proyectoweb.practica.stepdefinitions;
 import com.proyectoweb.practica.questions.CapturarMensaje;
 import com.proyectoweb.practica.tasks.RegistrarUsuario;
 import com.proyectoweb.practica.tasks.comunes.AbrirNavegador;
-import cucumber.api.PendingException;
-import cucumber.api.java.Before;
 import cucumber.api.java.es.Cuando;
 import cucumber.api.java.es.Dado;
 import cucumber.api.java.es.Entonces;
-import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 
@@ -22,18 +19,13 @@ import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 import static org.hamcrest.CoreMatchers.containsString;
 
 public class RegistarUsuarioStepDefinition {
-  private Actor Mateo = Actor.named("Sam");
 
-
-  @Before
-  public void configurarUrlInicial() {
+  @Dado("^que \"([^\"]*)\" esta en el sitio web en la pestaña$")
+  public void queEstaEnElSitioWebEnLaPestaña(String nombreActor){
     OnStage.setTheStage(new OnlineCast());
+    theActorCalled(nombreActor).wasAbleTo(AbrirNavegador.paginaPrueba());
   }
 
-  @Dado("^que estoy en el sitio web en la pestaña$")
-  public void queEstoyEnElSitioWebEnLaPestaña() {
-    theActorCalled("Sam").wasAbleTo(AbrirNavegador.paginaPrueba());
-  }
 
   @Cuando("^realice el registro en el sitio web$")
   public void realiceElRegistroEnElSitioWeb(Map<String,String> mapDatosUsuario) {
@@ -61,11 +53,5 @@ public class RegistarUsuarioStepDefinition {
   }
 
 
-
-  @Dado("^que estoy en el sitio web en la pestaña \"([^\"]*)\"$")
-  public void queEstoyEnElSitioWebEnLaPestaña(String arg0) throws Throwable {
-    // Write code here that turns the phrase above into concrete actions
-    throw new PendingException();
-  }
 }
 

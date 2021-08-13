@@ -14,55 +14,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd269f66-d038-4c08-9e40-3008030a0d90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/578be8249c91e3731dc2c7ea957eed3e4ceb8ed0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/comprar_producto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/comprar_producto.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/llenar_formulario_contacto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/llenar_formulario_contacto.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/loguear_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/loguear_usuario.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/registrar_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/registrar_usuario.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/questions/CapturarMensaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/questions/CapturarMensaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/ComprarProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/ComprarProducto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LlenarFormulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LlenarFormulario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LoguearUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LoguearUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/AbrirNavegador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/AbrirNavegador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/ContansteUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/ContansteUrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/enums/EnumMensajeAlerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/enums/EnumMensajeAlerta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/ComprarProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/ComprarProducto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/IniciarSesion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/IniciarSesion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/LlenarFormulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/LlenarFormulario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/RegistrarCorrectamente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/RegistrarCorrectamente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/comprar_producto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/comprar_producto.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/llenar_formulario_contacto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/llenar_formulario_contacto.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/loguear_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/loguear_usuario.feature" afterDir="false" />
@@ -332,9 +293,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ComprarProducto" />
-        <item itemvalue="JUnit.RegistrarCorrectamente" />
-        <item itemvalue="JUnit.IniciarSesion" />
         <item itemvalue="JUnit.LlenarFormulario" />
+        <item itemvalue="JUnit.IniciarSesion" />
+        <item itemvalue="JUnit.RegistrarCorrectamente" />
       </list>
     </recent_temporary>
   </component>
@@ -378,19 +339,9 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.java</url>
           <line>15</line>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java</url>
