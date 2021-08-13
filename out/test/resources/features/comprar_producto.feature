@@ -1,12 +1,12 @@
 #language: es
 
 Característica: Validar que un usuario se pueda adicionar producto al carrito
-  Yo usuario de product Store
+  Yo como usuario de product Store
   deseo poder adicionar un producto en el sitio web
   para poder comprar los productos
 
   Antecedentes:
-    Dado que "Mateo" esta en el sitio web en la pestaña
+    Dado que "Mateo" esta en el sitio web
 
   @InicarSesionCorrectamente
   Esquema del escenario: Adicionar productos al carrito
@@ -19,3 +19,4 @@ Característica: Validar que un usuario se pueda adicionar producto al carrito
     Ejemplos:
       | Producto     |Seccion|
       | MacBook Pro  |Laptops|
+

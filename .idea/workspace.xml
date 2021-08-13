@@ -15,19 +15,40 @@
   <component name="ChangeListManager">
     <list default="true" id="bd269f66-d038-4c08-9e40-3008030a0d90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/LlenarFormulario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/LlenarFormulario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/LoguearUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/LoguearUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/RegistrarUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/tasks/RegistrarUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/resources/features/comprar_producto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/comprar_producto.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/resources/features/llenar_formulario_contacto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/llenar_formulario_contacto.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/resources/features/loguear_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/loguear_usuario.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/resources/features/registrar_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/registrar_usuario.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LlenarFormulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LlenarFormulario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LoguearUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LoguearUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/comprar_producto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/comprar_producto.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/llenar_formulario_contacto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/llenar_formulario_contacto.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/loguear_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/loguear_usuario.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/registrar_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/registrar_usuario.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0ec7621882b09bbaa541d1cbdf8caa75301e512751dd4302e997d9987b095890.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0ec7621882b09bbaa541d1cbdf8caa75301e512751dd4302e997d9987b095890.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-0ec7621882b09bbaa541d1cbdf8caa75301e512751dd4302e997d9987b095890.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-0ec7621882b09bbaa541d1cbdf8caa75301e512751dd4302e997d9987b095890.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-34ca40708085979314ca223327423cf30ccfbba4e8c858ebd72240b806c0caca.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-634c012f42529fb4d6822aa84931c1ee143ffcd6c7e28dd6c1d017cd8136ea71.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bb3b16513705f949a8630da57d8ec3f81f134bc2587bc62b4271e7fcacffa010_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +175,7 @@
       <recent name="com.proyectoweb.practica.questions" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ComprarProducto">
+  <component name="RunManager" selected="JUnit.LlenarFormulario">
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -292,9 +313,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ComprarProducto" />
         <item itemvalue="JUnit.LlenarFormulario" />
         <item itemvalue="JUnit.IniciarSesion" />
+        <item itemvalue="JUnit.ComprarProducto" />
         <item itemvalue="JUnit.RegistrarCorrectamente" />
       </list>
     </recent_temporary>
@@ -330,18 +351,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java</url>
-          <line>32</line>
+          <line>31</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java</url>
-          <line>26</line>
+          <line>25</line>
           <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java</url>
@@ -360,7 +376,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java</url>
-          <line>20</line>
+          <line>18</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

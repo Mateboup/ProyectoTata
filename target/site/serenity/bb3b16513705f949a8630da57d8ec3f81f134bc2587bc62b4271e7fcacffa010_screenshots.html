@@ -111,7 +111,7 @@
             <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 13-08-2021 14:40</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 13-08-2021 15:00</span>
     <br style="clear:left"/>
 </div>
 
@@ -132,7 +132,7 @@
                                 </h3>
 
                                 <div class="discreet-requirement-narrative-title">
-                                Yo usuario de product Store
+                                Yo como usuario de product Store
 deseo poder adicionar un producto en el sitio web
 para poder comprar los productos
                                 </div>
@@ -154,9 +154,9 @@ para poder comprar los productos
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><i class='fa fa-check-square-o success-icon fa-2x' title='SUCCESS'></i></span>
+                            <span class="outcome-icon"><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></span>
                             <span class="test-case-title">
-                                <span class="success-color">Adicionar productos al carrito
+                                <span class="failing-color">Adicionar productos al carrito
                                     <span class="related-issue-title"></span>
                                 </span>
                             </span>
@@ -177,15 +177,81 @@ para poder comprar los productos
 
     <div id="beforetable"></div>
     <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+                        <div class="panel-heading title="Element should be enabled exception: Expected enabled element was not enabled">
+                            Element should be enabled exception: Expected enabled element was not enabled
+                        </div>
+                <div><!-- Stack trace -->
+                    <button type="button" class="btn btn-danger" data-toggle="modal"
+                            data-target="#stacktraceModal-overall">
+                        View details
+                    </button>
+                </div>
+                <!-- Modal -->
+                <div class="modal fade" id="stacktraceModal-overall" tabindex="-1" role="dialog"
+                     aria-labelledby="stacktraceModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"
+                                        aria-label="Close"><span aria-hidden="true">&times;</span>
+                                </button>
+                                <h4 class="modal-title" id="stacktraceModalLabel">
+                                    net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                    <h5>
+                                        <pre>Expected enabled element was not enabled</pre>
+                                    </h5>
+                                    com.proyectoweb.practica.tasks.ComprarProducto.performAs(ComprarProducto.java
+                                    :26) <br>
+                                    com.proyectoweb.practica.stepdefinitions.ComprarProductoStepDefinition.seleccioneUnSecciónDeArticulosYLuegoUnProducto(ComprarProductoStepDefinition.java
+                                    :20) <br>
+                                    cucumber.runner.Runner.runPickle(Runner.java
+                                    :80) <br>
+                            </div>
+
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal"
+                                            aria-label="Close"><span aria-hidden="true">&times;</span>
+                                    </button>
+                                    <h4 class="modal-title" id="stacktraceModalLabel">
+                                        Caused by: org.openqa.selenium.TimeoutException
+                                    </h4>
+                                </div>
+                                <div class="modal-body">
+                                        <pre>Expected condition failed: waiting for By.xpath: //*[@id=&quot;tbodyid&quot;]/div[6]//*[contains(text(),'MacBook air')] to be enabled (tried for 2 second(s) with 100 milliseconds interval)</pre>
+                                    <pre>
+                                        com.proyectoweb.practica.tasks.ComprarProducto.performAs(ComprarProducto.java :26) <br>
+                                        com.proyectoweb.practica.stepdefinitions.ComprarProductoStepDefinition.seleccioneUnSecciónDeArticulosYLuegoUnProducto(ComprarProductoStepDefinition.java :20) <br>
+                                        cucumber.runner.Runner.runPickle(Runner.java :80) <br>
+                                    </pre>
+                                </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource8170983546551989727.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
-                <img src="9d4fca5945dd1ef820c19b5d48b98bb72639d739659683beee6695708b8d5f90.png" title="Adicionar productos al carrito #1: {Producto=MacBook Pro, Seccion=Laptops}" width="1920"/>
-                <img src="416fc6b5347084e1c9c8fd3a901e3d52ab2748b3f23bd3108c7a099b1694603f.png" title="Dado que &quot;Mateo&quot; esta en el sitio web en la pesta&ntilde;a" width="1920"/>
-                <img src="960541d56018f926e92bef1c344b6d1a43ee2e4e57da73b1602d8bea258e289a.png" title="Cuando seleccione un secci&oacute;n de articulos y luego un producto
-| Seccion | Laptops |
-| Producto | MacBook Pro |" width="1920"/>
-                <img src="9d4fca5945dd1ef820c19b5d48b98bb72639d739659683beee6695708b8d5f90.png" title="Entonces debe permitir adicionar el producto" width="1920"/>
-                <img src="9d4fca5945dd1ef820c19b5d48b98bb72639d739659683beee6695708b8d5f90.png" title="Then capturar mensaje should be a string containing 'Product added': <span class='success-color'>SUCCESS</span>" width="1920"/>
+                <img src="4703625413336c22bc9cbf1ec1487d2e751c21fe5219223660a6e2cd270b4bf9.png" title="Adicionar productos al carrito #1: {Producto=MacBook Pro, Seccion=Laptops}" width="1920"/>
+                <img src="416fc6b5347084e1c9c8fd3a901e3d52ab2748b3f23bd3108c7a099b1694603f.png" title="Dado que &quot;Mateo&quot; esta en el sitio web" width="1920"/>
+                <img src="4703625413336c22bc9cbf1ec1487d2e751c21fe5219223660a6e2cd270b4bf9.png" title="Entonces debe permitir adicionar el producto" width="1920"/>
+                <img src="4703625413336c22bc9cbf1ec1487d2e751c21fe5219223660a6e2cd270b4bf9.png" title="Then capturar mensaje should be a string containing 'Product added'" width="1920"/>
+                <img src="416fc6b5347084e1c9c8fd3a901e3d52ab2748b3f23bd3108c7a099b1694603f.png" title="Dado que &quot;Mateo&quot; esta en el sitio web" width="1920"/>
+                <img src="52f7cdc11dec08f3b05354516e54f50828bdeccd500cdf1e2efa9b1f22054492.png" title="Mateo clicks on Seleccionar producto: <span class='failing-color'>FAILURE</span>" width="1920"/>
             </div>
         </div>
 

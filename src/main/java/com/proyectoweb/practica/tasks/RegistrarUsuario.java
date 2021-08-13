@@ -1,6 +1,5 @@
 package com.proyectoweb.practica.tasks;
 
-import com.proyectoweb.practica.tasks.comunes.ManejoAlertas;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
@@ -24,7 +23,7 @@ public class RegistrarUsuario implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
 
-        actor.attemptsTo(Click.on(TXT_REGISTRO),
+        actor.attemptsTo(Click.on(TXT_MENU_PRINCIPAL.of(mapDatosUsuario.get("Pestana"))),
                 Enter.theValue(mapDatosUsuario.get("Nombre".toString())).into(LBL_NOMBRE_USUARIO),
                 Enter.theValue(mapDatosUsuario.get("Contrasena".toString())).into(LBL_CONTRASEÑA),
                 Click.on(BTN_INSCRIBIRSE));

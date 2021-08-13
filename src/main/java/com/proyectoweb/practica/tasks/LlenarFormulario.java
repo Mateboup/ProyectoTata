@@ -23,8 +23,7 @@ public class LlenarFormulario implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
 
-        actor.attemptsTo(Click.on(TXT_CONTACTO),
-                Enter.theValue(mapDatosUsuario.get("Correo".toString())).into(LBL_CORREO),
+        actor.attemptsTo(Click.on(TXT_MENU_PRINCIPAL.of(mapDatosUsuario.get("Pestana"))),
                 Enter.theValue(mapDatosUsuario.get("Correo".toString())).into(LBL_CORREO),
                 Enter.theValue(mapDatosUsuario.get("Nombre".toString())).into(LBL_NOMBRE_CONTACTO),
                 Enter.theValue(mapDatosUsuario.get("Mensaje".toString())).into(LBL_MENSAJE),

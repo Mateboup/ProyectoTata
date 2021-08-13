@@ -23,7 +23,7 @@ public class LoguearUsuario implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
 
-        actor.attemptsTo(Click.on(TXT_INICIAR_SESION),
+        actor.attemptsTo(Click.on(TXT_MENU_PRINCIPAL.of(mapDatosUsuario.get("Pestana"))),
                 Enter.theValue(mapDatosUsuario.get("Nombre".toString())).into(LBL_NOMBRE_USUARIO_INICIO_SESION),
                 Enter.theValue(mapDatosUsuario.get("Contrasena".toString())).into(LBL_CONTRASEÑA_INICIO_SESION),
                 Click.on(BTN_INICIO_SESION));

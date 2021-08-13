@@ -6,7 +6,7 @@ Característica: Validar que un usuario se pueda adicionar producto al carrito
   para poder comprar los productos
 
   Antecedentes:
-    Dado que "Mateo" esta en el sitio web en la pestaña
+    Dado que "Mateo" esta en el sitio web
 
   @InicarSesionCorrectamente
   Esquema del escenario: Adicionar productos al carrito
@@ -19,3 +19,4 @@ Característica: Validar que un usuario se pueda adicionar producto al carrito
     Ejemplos:
       | Producto     |Seccion|
       | MacBook Pro  |Laptops|
+

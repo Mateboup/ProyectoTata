@@ -16,9 +16,6 @@ public final class PaginaInicioPage {
   public static final Target BTN_INSCRIBIRSE =
           Target.the("Boton Inscribirse" ).locatedBy("//*[@id=\"signInModal\"]/div/div/div[3]/button[2]");
 
-  public static final Target TXT_INICIAR_SESION =
-          Target.the("Opcion Iniciar Sesion" ).locatedBy("//*[@id=\"login2\"]");
-
   public static final Target LBL_NOMBRE_USUARIO_INICIO_SESION=
           Target.the("Nombre usuario" ).locatedBy("//*[@id=\"loginusername\"]");
 
@@ -28,8 +25,8 @@ public final class PaginaInicioPage {
   public static final Target BTN_INICIO_SESION =
           Target.the("Boton iniciar sesion" ).locatedBy("//*[@id=\"logInModal\"]/div/div/div[3]/button[2]");
 
-  public static final Target TXT_CONTACTO =
-          Target.the("Opcion Contacto" ).locatedBy("//*[@id=\"navbarExample\"]/ul/li[2]/a");
+  public static final Target TXT_MENU_PRINCIPAL =
+          Target.the("Menu principal" ).locatedBy("//li[@class]//*[contains(text(),'{0}')]");
 
   public static final Target LBL_CORREO =
           Target.the("Correo electronico" ).locatedBy("//*[@id=\"recipient-email\"]");
@@ -47,7 +44,7 @@ public final class PaginaInicioPage {
           Target.the("Seleccionar Seccion" ).locatedBy("//a[@id='itemc' and (contains(text(),'{0}'))]");
 
   public static final Target TXT_PRODUCTO =
-          Target.the("Seleccionar producto" ).locatedBy("//*[@id=\"tbodyid\"]/div[6]//*[contains(text(),'MacBook Pro')]");
+          Target.the("Seleccionar producto" ).locatedBy("//*[@id=\"tbodyid\"]/div[6]//*[contains(text(),'{0}')]");
 
   public static final Target BTN_ADICIONAR_CARRITO =
           Target.the("Adicionar producto" ).locatedBy("//*[@id=\"tbodyid\"]/div[2]/div/a");

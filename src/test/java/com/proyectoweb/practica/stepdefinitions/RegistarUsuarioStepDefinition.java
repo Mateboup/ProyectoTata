@@ -20,14 +20,14 @@ import static org.hamcrest.CoreMatchers.containsString;
 
 public class RegistarUsuarioStepDefinition {
 
-  @Dado("^que \"([^\"]*)\" esta en el sitio web en la pestaña$")
+  @Dado("^que \"([^\"]*)\" esta en el sitio web$")
   public void queEstaEnElSitioWebEnLaPestaña(String nombreActor){
     OnStage.setTheStage(new OnlineCast());
     theActorCalled(nombreActor).wasAbleTo(AbrirNavegador.paginaPrueba());
   }
 
 
-  @Cuando("^realice el registro en el sitio web$")
+  @Cuando("^realice el registro en el sitio web en la pestaña registro$")
   public void realiceElRegistroEnElSitioWeb(Map<String,String> mapDatosUsuario) {
       theActorInTheSpotlight().attemptsTo(RegistrarUsuario.conLosDatos(mapDatosUsuario));
   }
@@ -51,7 +51,6 @@ public class RegistarUsuarioStepDefinition {
                             CapturarMensaje.alertaDesplegada(),
                             containsString(USUARIO_EXISTENTE.getMensaje())));
   }
-
 
 }
 
