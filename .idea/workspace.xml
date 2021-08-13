@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd269f66-d038-4c08-9e40-3008030a0d90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/578be8249c91e3731dc2c7ea957eed3e4ceb8ed0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/questions/CapturarMensaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/questions/CapturarMensaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/ComprarProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/ComprarProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LlenarFormulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LlenarFormulario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LoguearUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LoguearUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/AbrirNavegador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/AbrirNavegador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/usersinterfaces/PaginaInicioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/ContansteUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/ContansteUrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/enums/EnumMensajeAlerta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/utils/enums/EnumMensajeAlerta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/ComprarProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/ComprarProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/IniciarSesion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/IniciarSesion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/LlenarFormulario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/LlenarFormulario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/RegistrarCorrectamente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/runners/RegistrarCorrectamente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/comprar_producto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/comprar_producto.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/llenar_formulario_contacto.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/llenar_formulario_contacto.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/loguear_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/loguear_usuario.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/registrar_usuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/registrar_usuario.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ProyectoQvision" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/PruebaQvision" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1611981288" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1611981287" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/PruebaQvision" />
+            </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="buscar_precio_hotel.feature" />
+                    <option name="lastUsedInstant" value="1611981327" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1611980314" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="practica_Mateo" />
+                    <option name="lastUsedInstant" value="1611943264" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YlgE0ORvlLWtfJYLjaa1R0Sghb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.proyectoweb.practica.interactions" />
+      <recent name="com.proyectoweb.practica.tasks" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.proyectoweb.practica.tasks" />
+      <recent name="com.proyectoweb.practica.runners" />
+      <recent name="com.proyectoweb.practica.stepdefinitions" />
+      <recent name="com.proyectoweb.practica.interactions" />
+      <recent name="com.proyectoweb.practica.questions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ComprarProducto">
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ComprarProducto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.proyectoweb.practica.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.proyectoweb.practica.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.proyectoweb.practica.runners.ComprarProducto" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IniciarSesion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.proyectoweb.practica.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.proyectoweb.practica.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.proyectoweb.practica.runners.IniciarSesion" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LlenarFormulario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.proyectoweb.practica.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.proyectoweb.practica.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.proyectoweb.practica.runners.LlenarFormulario" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrarCorrectamente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.proyectoweb.practica.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.proyectoweb.practica.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.proyectoweb.practica.runners.RegistrarCorrectamente" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ProyectoQvision" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ProyectoQvision" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RegistrarCorrectamente" />
+      <item itemvalue="JUnit.IniciarSesion" />
+      <item itemvalue="JUnit.LlenarFormulario" />
+      <item itemvalue="JUnit.ComprarProducto" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ComprarProducto" />
+        <item itemvalue="JUnit.RegistrarCorrectamente" />
+        <item itemvalue="JUnit.IniciarSesion" />
+        <item itemvalue="JUnit.LlenarFormulario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd269f66-d038-4c08-9e40-3008030a0d90" name="Default Changelist" comment="" />
+      <created>1583522479334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583522479334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/RegistrarUsuario.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/comunes/ManejoAlertas.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/RegistarUsuarioStepDefinition.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LoguearUsuarioStepDefinition.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LoguearUsuario.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/LlenarFormularioStepDefinition.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/LlenarFormulario.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/proyectoweb/practica/stepdefinitions/ComprarProductoStepDefinition.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/proyectoweb/practica/tasks/ComprarProducto.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

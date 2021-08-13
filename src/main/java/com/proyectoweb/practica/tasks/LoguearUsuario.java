@@ -1,0 +1,39 @@
+package com.proyectoweb.practica.tasks;
+
+import net.serenitybdd.screenplay.Actor;
+import net.serenitybdd.screenplay.Performable;
+import net.serenitybdd.screenplay.Task;
+import net.serenitybdd.screenplay.actions.Click;
+import net.serenitybdd.screenplay.actions.Enter;
+
+import java.util.Map;
+
+import static com.proyectoweb.practica.usersinterfaces.PaginaInicioPage.*;
+import static net.serenitybdd.screenplay.Tasks.instrumented;
+
+public class LoguearUsuario implements Task {
+
+    Map<String, String> mapDatosUsuario;
+
+    public LoguearUsuario(Map<String, String> mapDatosUsuario) {
+        this.mapDatosUsuario = mapDatosUsuario;
+    }
+
+
+    @Override
+    public <T extends Actor> void performAs(T actor) {
+
+        actor.attemptsTo(Click.on(TXT_INICIAR_SESION),
+                Enter.theValue(mapDatosUsuario.get("Nombre".toString())).into(LBL_NOMBRE_USUARIO_INICIO_SESION),
+                Enter.theValue(mapDatosUsuario.get("Contrasena".toString())).into(LBL_CONTRASEÑA_INICIO_SESION),
+                Click.on(BTN_INICIO_SESION));
+
+    }
+
+    public static Performable conLosDatos(
+            Map<String, String> mapDatosUsuario) {
+        return instrumented(LoguearUsuario.class, mapDatosUsuario);
+    }
+
+
+}
