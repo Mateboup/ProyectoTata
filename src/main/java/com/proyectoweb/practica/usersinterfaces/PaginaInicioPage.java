@@ -4,10 +4,7 @@ import net.serenitybdd.screenplay.targets.Target;
 
 public final class PaginaInicioPage {
 
-  public static final Target TXT_REGISTRO =
-          Target.the("Opcion registro usuario" ).locatedBy("//*[@id=\"signin2\"]");
-
-  public static final Target LBL_NOMBRE_USUARIO =
+   public static final Target LBL_NOMBRE_USUARIO =
           Target.the("Nombre usuario" ).locatedBy("//*[@id=\"sign-username\"]");
 
   public static final Target LBL_CONTRASEÑA =
